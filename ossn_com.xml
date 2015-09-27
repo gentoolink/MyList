@@ -2,7 +2,7 @@
 <component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
     <name>My List</name>
     <id>MyList</id>
-    <author>Zing Space Core Team</author>
+    <author>Ken McGonigal @Zing Space Team</author>
     <description>The MyList Component allows users to make lists and share with users.</description>
     <license>GNU General Public License, version 2</license>
     <author_url>https://aegisnetworks.ca/</author_url>
